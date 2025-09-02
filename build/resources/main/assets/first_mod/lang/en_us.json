@@ -1,0 +1,13 @@
+{
+  "item.first_mod.accessory.copper_ring": "Copper Ring",
+  "item.first_mod.accessory.iron_ring": "Iron Ring",
+  "item.first_mod.accessory.gold_ring": "Gold Ring",
+  "item.first_mod.ore.ice_shard": "Ice Shard",
+  "item.first_mod.ore.lava_shard": "Lava Shard",
+
+  "block.first_mod.lava_shard_ore": "Lava Shard Ore",
+  "block.first_mod.ice_shard_ore": "Ice Shard Ore",
+
+  "itemGroup.accessory_tab": "Accessory",
+  "itemGroup.ore_tab": "Ore"
+}
