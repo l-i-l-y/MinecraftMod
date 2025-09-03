@@ -1,0 +1,13 @@
+{
+  "item.first_mod.accessory.copper_ring": "铜戒指",
+  "item.first_mod.accessory.iron_ring": "铁戒指",
+  "item.first_mod.accessory.gold_ring": "金戒指",
+  "item.first_mod.ore.ice_shard": "寒冰碎片",
+  "item.first_mod.ore.lava_shard": "熔岩碎片",
+
+  "block.first_mod.lava_shard_ore": "熔岩碎片矿石",
+  "block.first_mod.ice_shard_ore": "寒冰碎片矿石",
+
+  "itemGroup.accessory_tab": "饰品",
+  "itemGroup.ore_tab": "矿物"
+}
